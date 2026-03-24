@@ -62,4 +62,8 @@ Python : python -m http.server 8000
 Node.js : npx serve .
 
 Développé avec passion pour le terroir marocain.
-## hicham.gr90@gmail.com
+Ce projet est sous licence  – interdit d’utilisation et de modification.
+
+## 👥 Auteur
+ 
+Contact : `hicham.gr90@gmail.com` Tel +212 6 33 54 86 05 
